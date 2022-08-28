@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @maverick1299(Hitansh Shah)
-- 👀 I’m interested in Chess, Programming, Counter-Strike 
-- 🌱 I’m currently learning Java,Python
-- ☕   I'm an Oracle Certified Professional Java Developer
+- 👋 Hi, I’m @hitansh1299(Hitansh Shah)
+- 👀 I’m interested in Chess, Programming, Counter-Strike, F1 
+- 🌱 I’m currently learning AI/ML, Data Science and Image Processing
+- ☕ I'm an Oracle Certified Professional Java Developer
 - 💞️ I’m looking to collaborate on Java and Python Projects in any field
+- 📘 Currently pursuing 
+  - BTech. CE from NMIMS' MPSTME, Mumbai
+  - BSc. Data Science and Programming from IIT-Madras
 - 📫 How to reach me: Reach to me at hitanshah.j.shah@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hitansh1299&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
