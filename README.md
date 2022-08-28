@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hitansh1299(Hitansh Shah)
 - 👀 I’m interested in Chess, Programming, Counter-Strike, F1 
 - 🌱 I’m currently learning AI/ML, Data Science and Image Processing
+- 💞️ I’m looking to collaborate on Java and Python Projects in any field, especially Machine Learning, Data Processing, Image Processing
 - ☕ I'm an Oracle Certified Professional Java Developer
-- 💞️ I’m looking to collaborate on Java and Python Projects in any field
 - 📘 Currently pursuing: 
   - BTech. CE from NMIMS' MPSTME, Mumbai
   - BSc. Data Science and Programming from IIT-Madras
