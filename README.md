@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI/ML, Data Science and Image Processing
 - ☕ I'm an Oracle Certified Professional Java Developer
 - 💞️ I’m looking to collaborate on Java and Python Projects in any field
-- 📘 Currently pursuing 
+- 📘 Currently pursuing: 
   - BTech. CE from NMIMS' MPSTME, Mumbai
   - BSc. Data Science and Programming from IIT-Madras
 - 📫 How to reach me: Reach to me at hitanshah.j.shah@gmail.com
