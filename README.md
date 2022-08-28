@@ -8,8 +8,6 @@
   - BSc. Data Science and Programming from IIT-Madras
 - 📫 How to reach me: Reach to me at hitanshah.j.shah@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hitansh1299&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hitansh1299&show_icons=true)
 <!---
 maverick1299/maverick1299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
