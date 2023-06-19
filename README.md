@@ -8,9 +8,6 @@
   - BSc. Data Science and Programming from IIT-Madras
 - 📫 How to reach me: Reach to me at hitanshah.j.shah@gmail.com
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hitansh1299&show_icons=true&theme=codeSTACKr)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitansh1299&theme=codeSTACKr&hide=html,css,javascript)
 <!---
 maverick1299/maverick1299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
