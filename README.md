@@ -1,10 +1,15 @@
 ---
 
-### Hi there 👋 I'm Hitansh Shah, and I love puzzles.
+### Hi there! I'm Hitansh Shah, and I love puzzles.
 
-I'm a **Data Scientist** and **Quantitative Finance** enthusiast currently pursuing a **MS Data Science in Finance** @ **Purdue, West Lafayette**. With 8+ years of coding experience and a strong foundation in **Data Science**, **Machine Learning**, and **Software Development**, I love solving complex problems with code—especially those involving finance, markets, and statistics.
+I'm a **Data Scientist** and **Quantitative Finance** enthusiast. With 8+ years of coding experience and a strong foundation in **Data Science**, **Machine Learning**, and **Software Development**, I love solving problems and building stuff with code—especially those involving quant finance, markets, and statistics (and Counter-Strike).
 
 ---
+### 📘 Background:
+  - MS Data Science in Finance @ Purdue University, West Lafayette (Class of 2025)
+  - BSc. Data Science and Programming from IIT-Madras
+  - BTech. CE @ NMIMS' MPSTME, Mumbasi
+  - Oracle Certified Professional Java Developer
 
 ### 🔭 **Current Focus**:
 - Combining my love for programming, markets, and data science to explore **quantitative finance** techniques, from portfolio optimization to market prediction.
@@ -29,9 +34,8 @@ My journey into quantitative finance stems from a deep love for the mechanics of
 - **Areas of Expertise**: Time Series Forecasting, Machine Learning, Financial Markets, Quantitative Finance, Data Science
 
 ### 📫 **How to reach me**:
-- Email: shah1185@purdue.edu
+- Email: hitansh1299@gmail.com
 - LinkedIn: [Hitansh Shah](https://www.linkedin.com/in/hitansh-shah)
 - GitHub: [hitansh1299](https://github.com/hitansh1299)
 - lichess: [Hitansh](https://lichess.org/@/Hitansh)
-
 ---
