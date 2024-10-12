@@ -23,7 +23,7 @@ I'm a **Data Scientist** and **Quantitative Finance** enthusiast. With 8+ years 
 - **Portfolio Management**: Developed an internal library for the **PyPortfolioOpt** tool, leveraging the **Black-Litterman** model for advanced risk assessment.
 
 ### 💡 **Quant and Finance Enthusiast**:
-My journey into quantitative finance stems from a deep love for the mechanics of the market and the intersection of **data science**, **programming**, and **finance**. I’ve worked on projects that explore:
+Worked on Projects involving:
 - **Predictive models** for stock returns and market behavior.
 - **Risk assessment** techniques and portfolio optimization using **machine learning**.
 - **Data scraping** from financial markets to identify arbitrage opportunities.
