@@ -7,7 +7,7 @@ I'm a **Data Scientist** and **Quantitative Finance** enthusiast. With 8+ years 
 ---
 ### 📘 Background:
   - MS Data Science in Finance @ Purdue University, West Lafayette (Class of 2025)
-  - BSc. Data Science and Programming from IIT-Madras
+  - BSc. Data Science and Programming @ IIT-Madras
   - BTech. CE @ NMIMS' MPSTME, Mumbasi
   - Oracle Certified Professional Java Developer
 
