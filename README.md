@@ -3,6 +3,7 @@
 ### Hi there! I'm Hitansh Shah, and I love puzzles.
 
 I'm a **Data Scientist** and **Quantitative Finance** enthusiast. With 8+ years of coding experience and a strong foundation in **Data Science**, **Machine Learning**, and **Software Development**, I love solving problems and building stuff with code—especially those involving quant finance, markets, and statistics (and Counter-Strike).
+https://xkcd.com/1053/
 
 ---
 ### 📘 Background:
