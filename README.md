@@ -9,7 +9,7 @@ relevant xkcd - [Change in Slope](https://www.xkcd.com/2701)
 
 ---
 ### 📘 Background:
-  - MS Data Science in Finance @ Purdue University, West Lafayette (Class of 2025)
+  - MS Computational Finance @ Purdue University, Dept. of Statistics, West Lafayette (Class of 2025)
   - BSc. Data Science and Programming @ IIT-Madras
   - BTech. CE @ NMIMS' MPSTME, Mumbasi
   - Oracle Certified Professional Java Developer
