@@ -37,7 +37,7 @@ relevant xkcd - [Change in Slope](https://www.xkcd.com/2701)
 
 ### 📫 **How to reach me**:
 - Email: hitansh1299@gmail.com
-- LinkedIn: [Hitansh Shah](https://www.linkedin.com/in/hitansh-shah)
+- LinkedIn: [Hitansh Shah](https://www.linkedin.com/in/hitansh-1299-shah)
 - GitHub: [hitansh1299](https://github.com/hitansh1299)
 - lichess: [Hitansh](https://lichess.org/@/Hitansh)
 ---
