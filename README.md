@@ -2,7 +2,7 @@
 
 ### Hi there! I'm Hitansh Shah, and I love puzzles.
 
-I'm a **Data Scientist** and **Quantitative Finance** enthusiast. With 8+ years of programming experience and a strong foundation in **Data Science**, **Machine Learning**, and **Software Development**, I like solving problems and building things with code, especially around quant finance, markets, statistics, and Counter-Strike.
+I'm a **Data Scientist** and **Quantitative Researcher**. With 8+ years of programming experience and a strong foundation in **Data Science**, **Machine Learning**, and **Software Development**, I like solving problems and building things with code, especially around quant finance, markets, statistics, and Counter-Strike.
 
 Relevant xkcd — [Change in Slope](https://www.xkcd.com/2701)
 
